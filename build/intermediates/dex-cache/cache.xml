@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/isoya/.android/build-cache/8f19863847b04f5c6a06bb43811deeead99e4328/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bd32b72098fecf44dcab3808a11e6b9fcb86b7b">
+        <dex dex="/Users/isoya/github/android/MediaStoreUriGetter/app/build/intermediates/pre-dexed/debug/classes_abd4649c5ed58b62aa8e41e00400eb9b58e30582.jar" />
+    </item>
+
+</items>
